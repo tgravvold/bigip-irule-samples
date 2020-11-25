@@ -1,0 +1,6 @@
+ltm data-group internal dg_clientcert_acl {
+    records {
+        "my.common.name 3a:1c:1b:36:77:19:67:a6:15:55" { }
+    }
+    type string
+}
